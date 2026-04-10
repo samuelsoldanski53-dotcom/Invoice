@@ -1,0 +1,113 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+
+# Android Studio generated files and folders
+.idea/
+.classpath
+.c9/
+*.class
+*.dex
+*.ear
+*.jar
+*.rar
+*.war
+*.zip
+*.tar.gz
+*.rar
+.gradle
+.gradle/
+local.properties
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/codeStyles/
+.idea/caches/
+.idea/modules.xml
+*.iml
+.idea/shelf
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+
+# Android Studio
+*.swp
+*~
+*.bak
+
+# Keystore files
+*.jks
+*.keystore
+release.keystore
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+.cxx/
+
+# Google Services (if you use it)
+google-services.json
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/frameit/screenshots
+fastlane/test_output
+
+# Version control
+.git/
+.gitignore
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build outputs
+app/build/
+.gradle/
+build/
+
+# Kotlin
+*.kt.bak
+*.kexe
+
+# Other
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
